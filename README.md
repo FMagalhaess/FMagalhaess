@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://portfolio-filipe-magalhaes-dev.onrender.com" target="_blank">Portfólio</a> •
-  <a href="https://linkedin.com/in/filipemagalhãesdev" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/filipemagalhaesdev/" target="_blank">LinkedIn</a> •
   <a href="mailto:7filipe093@gmail.com">E-mail</a>
 </p>
 
@@ -34,26 +34,18 @@ Sou nordestino com orgulho, autodidata, curioso e dedicado. Meu objetivo é cres
 
 ---
 
-### 📁 Projetos em destaque
+### 📁 Projeto em destaque
 
-#### 🔹 [Calculadora de Preço para Lanchonetes](https://github.com/FMagalhaess/precificador-hamburgueria)
+#### 🔹 [Calculadora de Preço para Lanchonetes](https://github.com/FMagalhaess/calculadora-custos)
 
 > Sistema de precificação desenvolvido em C# e .NET, inspirado em experiências reais de gestão de uma hamburgueria. Inclui cadastro de insumos, receitas, custos fixos e análise de margem de lucro.
-
-#### 🔹 [Marketplace Regional com Laravel](https://github.com/FMagalhaess/marketplace-laravel)
-
-> Projeto colaborativo de um marketplace para cidades pequenas, com backend em Laravel, autenticação JWT, consumo de APIs externas e testes com Pest.
-
-#### 🔹 [Organizador Pokémon](https://github.com/FMagalhaess/organizador-pokemon)
-
-> Projeto pessoal em C# para comparar locais de captura de Pokémon. Utiliza Docker e terá versões mobile com Flutter e web com ASP.NET.
 
 ---
 
 ### 🧰 Habilidades e práticas
 
 * Desenvolvimento de APIs RESTful com C# e .NET
-* ORMs: Entity Framework, Dapper
+* ORMs: Entity Framework
 * Containers: Docker
 * Banco de dados: SQL Server, MySQL
 * Versionamento: Git, GitHub
